@@ -21,3 +21,5 @@ If you are taking off or landing when Disneyland is having their Nighttime show,
 
 ### [There is my Linkedlin, feel free to connect with me!](https://www.linkedin.com/in/lincoln-chan-0a5a60346/)
 This repository’s social media preview image is [an Aerial Photo of Hong Kong Disneyland by Ryan Severin taken just after takeoff](https://www.facebook.com/groups/hkdltips/permalink/1933121910744880/) 
+<img alt="[an Aerial Photo of Hong Kong Disneyland by Ryan Severin taken just after takeoff](https://www.facebook.com/groups/hkdltips/permalink/1933121910744880/)" src="https://github.com/user-attachments/assets/4c8dbf4d-9a5f-4364-b049-5623b8c78e83" />
+
