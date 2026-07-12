@@ -18,7 +18,7 @@ You can [download/save the Hong Kong Area to your Google Maps app](https://suppo
 ## Hong Kong Disneyland Nighttime show
 If you are taking off or landing when Disneyland is having their Nighttime show, you should be able to see them and can even take photos of it with your phone. You can check when these show begin [using the Hong Kong Disneyland app.](https://www.hongkongdisneyland.com/zh-hk/mobile-app/)
 
-### If you find this article helpful, I would really appreciate you if you [star this article's Github Repository](https://github.com/lincolnlychan/How-to-take-Aerial-Photographs-of-Hong-Kong-Disneyland/) or [like this article on Linkedin](https://www.linkedin.com/pulse/how-take-aerial-photographs-hong-kong-disneyland-when-lincoln-chan-47jyc/), thank you very much!
+### If you find this article helpful, I would really appreciate you if you [star this article's GitHub Repository](https://github.com/lincolnlychan/How-to-take-Aerial-Photographs-of-Hong-Kong-Disneyland/) or [give this article a like on Linkedin](https://www.linkedin.com/pulse/how-take-aerial-photographs-hong-kong-disneyland-when-lincoln-chan-47jyc/), thank you very much!
 
 This repository’s social media preview image is [an Aerial Photo of Hong Kong Disneyland taken by Ryan Severin just after takeoff](https://www.facebook.com/groups/hkdltips/permalink/1933121910744880/) 
 <img alt="[an Aerial Photo of Hong Kong Disneyland taken by Ryan Severin just after takeoff](https://www.facebook.com/groups/hkdltips/permalink/1933121910744880/) " src="https://github.com/user-attachments/assets/4c8dbf4d-9a5f-4364-b049-5623b8c78e83" />
