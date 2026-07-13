@@ -1,4 +1,3 @@
-[![GitGem](https://gitgem.org/api/badge/github/lincolnlychan/How-to-take-Aerial-Photographs-of-Hong-Kong-Disneyland.svg)](https://gitgem.org/github/lincolnlychan/How-to-take-Aerial-Photographs-of-Hong-Kong-Disneyland)
 # [How to take Aerial Photographs of Hong Kong Disneyland](https://www.linkedin.com/pulse/how-take-aerial-photographs-hong-kong-disneyland-when-lincoln-chan-47jyc/)
 Publicly available Up-to-date satellite images of Hong Kong Disneyland (HKDL) are hard to come by. Seeing and taking of photos of Hong Kong Disneyland from the air are also very cool and magical. If you want aerial views of Hong Kong Disneyland, this is how you do it. 
 ## Choosing the right seat
