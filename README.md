@@ -21,13 +21,14 @@ If you are taking off or landing when Disneyland is having their Nighttime show,
 ### If you find this article helpful, I would really appreciate it if you [star this article's GitHub Repository](https://github.com/lincolnlychan/How-to-take-Aerial-Photographs-of-Hong-Kong-Disneyland/) or [give this article a like on Linkedin](https://www.linkedin.com/pulse/how-take-aerial-photographs-hong-kong-disneyland-when-lincoln-chan-47jyc/), thank you very much!
 
 [This repository’s](https://github.com/lincolnlychan/How-to-take-Aerial-Photographs-of-Hong-Kong-Disneyland/) social media preview image is [an Aerial Photo of Hong Kong Disneyland taken by Ryan Severin just after takeoff](https://www.facebook.com/groups/hkdltips/permalink/1933121910744880/) 
-<img alt="[an Aerial Photo of Hong Kong Disneyland taken by Ryan Severin just after takeoff/ Aerial View of Hong Kong Disneyland taken by Ryan Severin just after takeoff/ a bird's-eye view of Hong Kong Disneyland taken by Ryan Severin just after takeoff/ 鳥瞰香港迪士尼樂園/ 香港迪士尼樂園鳥瞰圖/ 香港迪士尼度假區俯瞰圖/ 香港迪士尼樂園高空拍攝全相](https://www.facebook.com/groups/hkdltips/permalink/1933121910744880/)" src="https://github.com/user-attachments/assets/4c8dbf4d-9a5f-4364-b049-5623b8c78e83" />
+<img alt="[an Aerial Photo of Hong Kong Disneyland taken by Ryan Severin just after takeoff/ Aerial View of Hong Kong Disneyland taken by Ryan Severin just after takeoff/ a bird's-eye view of Hong Kong Disneyland taken by Ryan Severin just after takeoff/ 鳥瞰香港迪士尼樂園/ 香港迪士尼樂園鳥瞰圖/ 香港迪士尼度假區俯瞰圖/ 香港迪士尼樂園高空拍攝全相/ 香港迪士尼樂園俯瞰圖](https://www.facebook.com/groups/hkdltips/permalink/1933121910744880/)" src="https://github.com/user-attachments/assets/4c8dbf4d-9a5f-4364-b049-5623b8c78e83" />
 **[This article was originally posted on Linkedin.](https://www.linkedin.com/pulse/how-take-aerial-photographs-hong-kong-disneyland-when-lincoln-chan-47jyc/) It also has the following alternative titles:**
 - How to get aerial views of Hong Kong Disneyland
 - How to get a bird's-eye view of Hong Kong Disneyland
 - Tutorial on How to take Aerial Photographs of Hong Kong Disneyland
 - 如何在空中拍攝香港迪士尼樂園
 - 如何拍攝香港迪士尼樂園鳥瞰圖
+- 如何拍攝香港迪士尼樂園俯瞰圖
 - 在飛機上看到香港迪士尼樂園攻略 
 - 如何在飛機上看到香港迪士尼樂園
 - 點樣喺飛機上面睇到香港迪士尼樂園 
