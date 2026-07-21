@@ -26,6 +26,7 @@ If you are taking off or landing when Disneyland is having their Nighttime show,
 - How to get aerial views of Hong Kong Disneyland
 - How to get a bird's-eye view of Hong Kong Disneyland
 - Tutorial on How to take Aerial Photographs of Hong Kong Disneyland
+- Tutorial on How to get aerial views of Hong Kong Disneyland
 - 如何在空中拍攝香港迪士尼樂園
 - 如何拍攝香港迪士尼樂園鳥瞰圖
 - 如何拍攝香港迪士尼樂園俯瞰圖
